@@ -1,1 +1,3 @@
 I am Ashwini. kind hearted...:) This is to test the auto merge
+
+This is from master branch
